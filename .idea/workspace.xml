@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1815c75-11c4-4b71-8539-1ce9cd2f885c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/testNotebooks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testNotebooks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NbSnipTests_001.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NbSnipTests_001.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python tricks_ Demystifying async, await, and asyncio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python tricks_ Demystifying async, await, and asyncio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python tricks_ Demystifying async, await, and asyncio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python tricks_ Demystifying async, await, and asyncio.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SolveLinSystem.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SolveLinSystem.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrawSim_01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/StrawSim_01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDG_Control_Systems_Lab_Experiment_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TDG_Control_Systems_Lab_Experiment_1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control_lib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/control_lib.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solve_odes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/solve_odes.ipynb" afterDir="false" />
@@ -38,7 +47,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Nordwin 2/Documents/GitHub/testNotebooks"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Nordwin 2/Documents/GitHub/testNotebooks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,8 +63,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663563670913</updated>
+      <workItem from="1663933200498" duration="742000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
